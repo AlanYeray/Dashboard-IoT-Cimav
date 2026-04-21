@@ -6,6 +6,7 @@ Los sistemas de secado de alimentos requieren monitoreo constante de variables p
 Interfaz web desarrollada en HTML y JavaScript que se comunica en tiempo real con un ESP32 vía WiFi usando WebSockets y HTTPS, permitiendo monitorizar y controlar remotamente el emulador de aire sintético del proyecto de residencia.
 ### Resultado
 El operador puede visualizar y ajustar las variables del sistema desde cualquier dispositivo con navegador, sin necesidad de estar físicamente presente frente al hardware.
+
 -----------------------------------------------------------------------------------------------------------------
 
 Segunda parte del Proyecto para Residencia Profesional en el centro de Investigacion Cimav. 
